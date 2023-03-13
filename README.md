@@ -1,2 +1,2 @@
 # Airline-Analysis-Project
-Informal Q&amp;A Project as part of Codecademy Data Visualisation Modules
+This was an off-platform project as part of the "Visualisation for Exploratory Data Analysis" module in the Codecademy Data Science course. It was used for practical learning of data visualisation for univariate, bivariate and multivariate analysis. It demonstrates the use of Seaborn and MatPlotLib. These libraries were used to visually analyse data through charts such as scatter plots, LOWESS plots, box and whisker plots, and histograms. This is intended to be a record of my learning only and not judged as a formal assessment.
